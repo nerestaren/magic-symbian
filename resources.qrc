@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/images/tb_back.svg</file>
+        <file>qml/images/tb_minus.svg</file>
+        <file>qml/images/tb_plus.svg</file>
+        <file>qml/images/tb_repeat.svg</file>
+        <file>qml/images/bg_serra.png</file>
+        <file>qml/images/bg_ajani.png</file>
+        <file>qml/images/bg_bolas.png</file>
+        <file>qml/images/bg_counter.png</file>
+        <file>qml/images/tb_close.svg</file>
+        <file>i18n/magic_ca.qm</file>
+        <file>i18n/magic_en.qm</file>
+        <file>i18n/magic_es.qm</file>
+        <file>Magic.svg</file>
+    </qresource>
+</RCC>
